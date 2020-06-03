@@ -22,6 +22,7 @@
 #include <driver/CordioHCITransportDriver.h>
 #include <driver/CordioHCIDriver.h>
 
+#include <mbed.h>
 #include <mbed_config.h>
 
 // Parts of this file are based on: https://github.com/ARMmbed/mbed-os-cordio-hci-passthrough/pull/2
